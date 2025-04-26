@@ -1,4 +1,4 @@
-# 🛠 Integration Engineer Assignment – Multi-Source / Multi-Destination ETL Pipeline
+# 🛠 Multi-Source / Multi-Destination ETL Pipeline
 
 ## 🚀 Overview
 
